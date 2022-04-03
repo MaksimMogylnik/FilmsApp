@@ -1,0 +1,12 @@
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\bin\Debug\net5.0\FilmInfos.deps.json
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\bin\Debug\net5.0\FilmInfos.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\bin\Debug\net5.0\ref\FilmInfos.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\bin\Debug\net5.0\FilmInfos.pdb
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.csproj.AssemblyReference.cache
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.AssemblyInfoInputs.cache
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.AssemblyInfo.cs
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.csproj.CoreCompileInputs.cache
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\ref\FilmInfos.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmInfos\obj\Debug\net5.0\FilmInfos.pdb

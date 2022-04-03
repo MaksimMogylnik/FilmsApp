@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FilmsDAL/1.0.0": {
+        "dependencies": {
+          "FilmInfos": "1.0.0"
+        },
+        "runtime": {
+          "FilmsDAL.dll": {}
+        }
+      },
+      "FilmInfos/1.0.0": {
+        "runtime": {
+          "FilmInfos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FilmsDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FilmInfos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\bin\Debug\net5.0\FilmsDAL.deps.json
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\bin\Debug\net5.0\FilmsDAL.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\bin\Debug\net5.0\ref\FilmsDAL.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\bin\Debug\net5.0\FilmsDAL.pdb
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\bin\Debug\net5.0\FilmInfos.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\bin\Debug\net5.0\FilmInfos.pdb
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.csproj.AssemblyReference.cache
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.AssemblyInfoInputs.cache
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.AssemblyInfo.cs
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.csproj.CoreCompileInputs.cache
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.csproj.CopyComplete
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\ref\FilmsDAL.dll
+C:\Users\Makson\source\repos\WebApplication1\FilmsDAL\obj\Debug\net5.0\FilmsDAL.pdb
